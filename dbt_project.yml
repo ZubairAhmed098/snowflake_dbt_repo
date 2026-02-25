@@ -1,0 +1,2 @@
+name: "Dbt_project"
+model-paths: ["models"]
